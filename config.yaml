@@ -1,0 +1,9 @@
+---
+# Note: indendentation is important
+# Verify formatting here: https://yaml-online-parser.appspot.com/
+
+# Cloudflare plugin configuration
+config:
+  webhook_secret: 'xxxxxxxxxxxxxxxxxxxxx'
+  auth_header: 'X-Cs-Primary-Signature'
+  chat_id: 'xx:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx@thread.v2'
