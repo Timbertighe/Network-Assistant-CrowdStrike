@@ -2,6 +2,9 @@
 Handles webhooks from the CrowdStrike platform
 
 # Using the plugin
+Plugins need to be added to the 'plugins' directory of the Network Assistant, each in their own folder.
+Plugins are then enabled in the global configuration file
+
 ## Webhooks
 ### Enabling Webhooks
     This requires webhook alerts to be configured on CrowdStrike
